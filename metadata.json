@@ -1,0 +1,6 @@
+{
+  "name": "Villa 22×15 — Visualiseur 3D",
+  "description": "Visualiseur architectural 3D interactif issu du plan de villa 22 m × 15 m avec coupe horizontale, plan 2D synchronisé et visite à la première personne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
